@@ -1,6 +1,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
     <application
-        android:label="pert4_crud"
+        android:label="toko_kita"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity

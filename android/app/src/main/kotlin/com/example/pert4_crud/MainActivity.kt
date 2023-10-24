@@ -1,4 +1,4 @@
-package com.example.pert4_crud
+package com.example.toko_kita
 
 import io.flutter.embedding.android.FlutterActivity
 
